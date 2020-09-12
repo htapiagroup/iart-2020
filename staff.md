@@ -6,7 +6,12 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+: Importante
+
+Utiliza la siguiente informacion de contacto para cualquier comunicacion sobre el curso. 
+# Contacto
+
+Utiliza la siguiente informacion de contacto para cualquier comunicacion sobre el curso. Para agendar una reunion es necesario tener acceso institucional a Teams de Microsoft.Para agendar una reunion es necesario tener acceso institucional a Teams de Microsoft.
 
 ## Instructor
 
