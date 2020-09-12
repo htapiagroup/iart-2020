@@ -4,7 +4,7 @@ title: Just the Class
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Data Analysis
 ---
 
 # {{ site.tagline }}
@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## Data Analysis
 
 ### Objetivos
 * Presentar las ideas basicas del analisis de datos desde un perspectiva actual y aplicada
@@ -26,7 +26,11 @@ seo:
 * Desarrollar en el estudiante el pensamiento computacional e inferencial para abordar problemas reales
 
 ### Pre-requisitos
-Como una materia optativa del programa de posgrado, se espera que el participante cuente con los conocimientos basicos de pensamiento matematico y herramientas como el algebra lineal, estadistica elemental y calculo. Lo mas importante es que el estudiante tenga un conocimiento solido en algun lenguaje de programacion. Cada participante debera contar con una computadora con el ambiente de programacio de su preferencia y acceso a internet.
+Como una materia optativa del programa de posgrado:
+* se espera que el participante cuente con los conocimientos basicos de pensamiento matematico y herramientas como el algebra lineal, estadistica elemental y calculo. 
+* Lo mas importante es que el estudiante tenga un conocimiento solido en algun lenguaje de programacion. 
+* Cada participante debera contar con una computadora con el ambiente de programacio de su preferencia 
+* Como la clase sera a distancia es fundamental contar con acceso a internet.
 
 ## Informacion sobre curso a distancia
 Como es del conocimiento de todos, dadas las circunstancias particulares que vivimos, el curso será de manera virtual. Hemos tratado de organizar la presentación de los contenidos de modo que sean contenidos y accesibles desde un solo sitio. Sin emabargo estaremos usando diferentes tecnologias tanto para establecer la comunicacion como para presentar el material. Les pido atencion a los siguientes puntos:
