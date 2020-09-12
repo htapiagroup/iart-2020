@@ -1,3 +1,24 @@
+# Data Analysis
+
+### Objetivos
+* Presentar las ideas basicas del analisis de datos desde un perspectiva actual y aplicada
+* Utilizar las herramientas tecnologicas para abordar y resolver problemas a partir de datos
+* Conocer y aplicar las tecnicas de modelaje computacional modernas en problemas reales y datos reales
+* Desarrollar en el estudiante el pensamiento computacional e inferencial para abordar problemas reales
+
+### Pre-requisitos
+Como una materia optativa del programa de posgrado:
+* se espera que el participante cuente con los conocimientos basicos de pensamiento matematico y herramientas como el algebra lineal, estadistica elemental y calculo. 
+* Lo mas importante es que el estudiante tenga un conocimiento solido en algun lenguaje de programacion. 
+* Cada participante debera contar con una computadora con el ambiente de programacio de su preferencia 
+* Como la clase sera a distancia es fundamental contar con acceso a internet.
+
+## Informacion sobre curso a distancia
+Como es del conocimiento de todos, dadas las circunstancias particulares que vivimos, el curso será de manera virtual. Hemos tratado de organizar la presentación de los contenidos de modo que sean contenidos y accesibles desde un solo sitio. Sin emabargo estaremos usando diferentes tecnologias tanto para establecer la comunicacion como para presentar el material. Les pido atencion a los siguientes puntos:
+* Como plataforma de comunicacion se hará uso de la herramienta Teams por medio de la cuenta institucional que ofrece la Universidad Veracruzana. 
+* En la medida de lo posible evitar el envio de correos electronicos sin solicitar una reunion por este medio (ver el apartado Contactos)
+
+
 # Just the Class
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
