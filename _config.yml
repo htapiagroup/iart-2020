@@ -64,11 +64,6 @@ defaults:
       type: announcements
     values:
       layout: announcement
-  - scope:
-      path: ''
-      type: lessons
-    values:
-      layout: page
 
 compress_html:
   clippings: all
