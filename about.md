@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Acerca del curso
 description: >-
     Course policies and information.
 ---
