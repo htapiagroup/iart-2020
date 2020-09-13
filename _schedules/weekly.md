@@ -26,7 +26,7 @@ schedule:
       end: 10:45 AM
       location: Teams Main Room
     Section:
-      start: 10:45 AM
+      start: 11:00 AM
       end: 11:30 AM
       location: Teams Adjacent Room
     Adjourn:
