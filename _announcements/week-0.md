@@ -4,7 +4,6 @@ week: 0
 date: 2020-09-13
 ---
 
-Hello world!
 Bienvenidos al curso de Analisis de Datos materia optativa de la Maestria en Inteligencia Artificial de la Universidad Veracruzana. En este sitio encontrarán enlaces y material para las actividades.
 
 El primer anuncio relevente, ademas de darles la bienvenida, es pedirles que explores este sitio y se familiaricen con el contenido. Les pido de la manera mas atenta que utilicen los recursos que se encuentran en este sitio, especialmente con respecto a la informacion asociada al curso; por ejemplo y de forma particular utilicen el apartado de Contacto para cualquier comunicacion relacionada al curso.
