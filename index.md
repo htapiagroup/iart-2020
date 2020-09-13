@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: IART-OPT-IV
 nav_exclude: true
 seo:
   type: Course
