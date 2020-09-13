@@ -22,17 +22,13 @@ schedule:
   Monday:
   Tuesday:
     Lecture:
-      start: 9:30 AM
-      end: 10:30 AM
-      location: 150 Wheeler
+      start: 10:00 AM
+      end: 10:45 AM
+      location: Teams Main Room
     Section:
-      start: 11:30 AM
-      end: 12:30 PM
-      location: 310 Soda
-    Office Hours:
-      start: 12:30 PM
-      end: 2:00 PM
-      location: 271 Soda
+      start: 10:45 AM
+      end: 11:30 PM
+      location: Teams Adjacent Room
   Wednesday:
   Thursday:
   Friday:
