@@ -8,7 +8,7 @@ Bienvenidos al curso de Analisis de Datos materia optativa de la Maestria en Int
 
 Ademas de darles la bienvenida quiero pedirles que exploren este sitio y se familiaricen con el contenido. Les pido de _la manera mas atenta_ que utilicen los recursos que se encuentran en este sitio, especialmente con respecto a la informacion asociada al curso y de forma particular para establecer comunicacion. Utilicen el apartado de Contacto para cualquier comunicacion relacionada al curso.
 
-Utilizaremos este sitio como canal de enlace, comunicacion y acceso al contenido del curso y emplearemos la plataforma de Teams (Microsoft) que proporcional la cuenta institucional de la Universidad Veracruzana. Para esto hemos creado un equipo de trabajo que pueden encontrar en el menu de Contacto bajo el nombre [Teams](/staff).
+Utilizaremos este sitio como canal de enlace, comunicacion y acceso al contenido del curso y emplearemos la plataforma de Teams (Microsoft) que proporcional la cuenta institucional de la Universidad Veracruzana. Para esto hemos creado un equipo de trabajo que pueden encontrar en el menu de Contacto bajo el nombre **Teams**.
 
 El contenido del curso sera presentado usando libretas digitales a las que tendrán acceso y el contenido de las lecciones sera disponible de acuerdo al calendario. 
 
