@@ -1,12 +1,12 @@
 ---
-title: Introduction to Java
+title: Introduction to Course
 ---
 
-Sep 28
-: [Java & Git](#)
+Sep 15
+: [What is this course about](#)
   : [1.1](#)
 
-Sep 29
+Sep 17
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
