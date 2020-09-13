@@ -1,6 +1,6 @@
 ---
 name: Kevin Lin
-role: Instructor
+role: Teaching Assistant
 email: me@example.com
 website: https://kevinl.info
 photo: /assets/images/kevin.jpg
