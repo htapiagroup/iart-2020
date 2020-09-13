@@ -4,14 +4,10 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-# Staff
-
-: Importante
-
-Utiliza la siguiente informacion de contacto para cualquier comunicacion sobre el curso. 
 # Contacto
-
-Utiliza la siguiente informacion de contacto para cualquier comunicacion sobre el curso. Para agendar una reunion es necesario tener acceso institucional a Teams de Microsoft.Para agendar una reunion es necesario tener acceso institucional a Teams de Microsoft.
+**Importante**
+Este es el único canal oficial de comunicación para el curso. Utiliza la siguiente informacion de contacto para cualquier comunicacion relacioanda al curso. 
+Para agendar una reunión es necesario contar con el acceso institucional a Teams de Microsoft. Utiliza Ctrl- mientras presionas el boton para abrir la página en una nueva ventana.
 
 ## Instructor
 
