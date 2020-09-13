@@ -6,7 +6,7 @@ timeline:
   - '11:00 AM'
   - '11:30 AM'
   - '12:00 PM'
-  - '12:30 AM'
+  - '12:30 PM'
 schedule:
   Monday:
   Tuesday:
@@ -16,7 +16,7 @@ schedule:
       location: Teams Main Room
     Section:
       start: 11:00 AM
-      end: 12:00 AM
+      end: 12:00 PM
       location: Teams Adjacent Room
   Wednesday:
   Thursday:
@@ -26,7 +26,7 @@ schedule:
       location: Teams Main Room
     Section:
       start: 11:00 AM
-      end: 12:00 AM
+      end: 12:00 PM
       location: Teams Adjacent Room
   Friday:
 ---
