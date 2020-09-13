@@ -20,10 +20,6 @@ schedule:
       location: Teams Adjacent Room
   Wednesday:
   Thursday:
-    Lecture:
-      start: 10:00 AM
-      end: 11:00 AM
-      location: Teams Main Room
     Section:
       start: 11:00 AM
       end: 12:00 PM
