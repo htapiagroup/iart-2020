@@ -1,5 +1,5 @@
 ---
-name: Horacio <br>Tapia-McClung
+name: Horacio <br> Tapia-McClung
 role: Instructor
 email: htapia@uv.mx
 website: https://uv.mx/personal/htapia
