@@ -1,7 +1,7 @@
 ---
 name: Horacio <br>Tapia-McClung
 role: Instructor
-email: [htapia@uv.mx](mailto:htapia@uv.mx?subject=[iart2020]%20Pregunta)
+email: htapia@uv.mx
 website: https://uv.mx/personal/htapia
 photo: /assets/htapia_face.png
 ---
