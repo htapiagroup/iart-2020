@@ -5,7 +5,7 @@ description: >-
     Overview of the data analysis workflow
 ---
 
-# Exploratory Data Analysis
+# 01 Exploratory Data Analysis
 {:.no_toc}
 
 ### Objetivos
