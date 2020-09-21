@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01-Exploratory Data Analysis
+title: Exploratory Data Analysis
 description: >-
     Overview of the data analysis workflow
 ---
