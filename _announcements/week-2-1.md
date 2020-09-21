@@ -4,4 +4,4 @@ week: 1
 date: 2020-09-21
 ---
 
-1. We start this week with Exploratory Data Analysis. Please review the lecture in this presentation: [Exploratory Data Analysis]({{ site.baseurl }})
+1. We start this week with Exploratory Data Analysis. Please review the lecture in this presentation: [Exploratory Data Analysis]({{ site.baseurl }}{% link _lessons/ExploratoryDataAnalysis.md %})
