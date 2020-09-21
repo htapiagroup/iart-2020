@@ -8,7 +8,7 @@ description: >-
 # 01 Exploratory Data Analysis
 {:.no_toc}
 
-### Objetivos
+### Goals
 * Import data
 * Data cleaning and wrangling
 * Data transformations and summary statistics
