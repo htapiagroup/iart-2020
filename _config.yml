@@ -42,6 +42,9 @@ collections:
   modules:
   schedules:
   announcements:
+  lessons:
+    permalink: '/:collection/:path/'
+    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -64,6 +67,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: lessons
+    values:
+      layout: page
 
 compress_html:
   clippings: all
