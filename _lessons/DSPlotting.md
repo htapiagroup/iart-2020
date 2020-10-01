@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Types
+title: Plotting Data
 description: >-
     Overview of some ways to visualize data
 ---
