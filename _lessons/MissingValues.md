@@ -11,4 +11,4 @@ description: >-
 ### Goals
 * Present how to (sometimes) deal with missing values 
 
-<iframe src="https://www.wolframcloud.com/obj/horaciotmc/Published/01.03_DataTypes.nb?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/horaciotmc/Published/01.06_DataScienceExploratoryAnalysisFilteringMissing.nb?_embed=iframe" width="600" height="800"></iframe>
