@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Feature Engineering
 ---
 
@@ -13,6 +14,8 @@ Nov 17
 : **Section**{: .label .label-purple }[Feature Engineering: Data Distributions]({{ site.baseurl }}{% link _lessons/03_FeatureEngineering.md %})
   
 =======
+=======
+>>>>>>> e8413376f02f618910fe3ebb477a4585fc38919e
 title: Exploratory Data Analysis
 ---
 
@@ -23,4 +26,7 @@ seurl }}{% link _lessons/ExploratoryDataAnalysis.md %})
   
 Oct 1
 : **Lab**{: .label .label-purple }[](#)
+<<<<<<< HEAD
+>>>>>>> e8413376f02f618910fe3ebb477a4585fc38919e
+=======
 >>>>>>> e8413376f02f618910fe3ebb477a4585fc38919e
